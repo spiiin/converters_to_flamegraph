@@ -43,6 +43,8 @@ It can be opened with any modern browser.
 
 `flamegraph.pl perf.folded > perf.svg`
 
+Also possible grab output from `Intstruments -> Allocations similar` way. `instruments_allocation_to_collapsed_stacks.py` script can convert it to folded stacks too.
+
 
 
 
